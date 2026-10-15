@@ -12,10 +12,10 @@ body {
 }
 
 header {
-  background-color: #1f3a5f;
-  color: #fff;
-  padding: 24px 16px;
-  text-align: center;
+    background-color: #210805;
+    color: #fff;
+    padding: 24px 16px;
+    text-align: center;
 }
 
 header h1 {
@@ -57,9 +57,9 @@ a {
 }
 
 footer {
-  background-color: #1f3a5f;
-  color: #fff;
-  text-align: center;
-  padding: 16px;
-  font-size: 0.9rem;
+    background-color: #210805;
+    color: #fff;
+    text-align: center;
+    padding: 16px;
+    font-size: 0.9rem;
 }
